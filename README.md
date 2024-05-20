@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif">
 
-<h3 align="center">Web Developer From India</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="left">
-- 🔭 I’m currently working on **Web development**<br/>
-- 🌱 I’m currently learning **MERN Stack**<br/>
-- 📫 How to reach me **snxd2047@gmail.com**
+- 🔭 I’m currently working on Web development<br/>
+- 🌱 I’m currently learning MERN Stack<br/>
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
