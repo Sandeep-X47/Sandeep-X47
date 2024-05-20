@@ -11,8 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep linkedin" height="30" width="40" /></a>
-  <a href="https://x.com/Sandeep_X47" target="_blank"><img align="center" src="C:\Users\Sandeep kumar\Downloads\twitter.png" alt="Sandeep Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb" target="_blank">LINKEDIN</a>
+  <a href="https://x.com/Sandeep_X47" target="_blank">TWITTER</a>
+  <a href="snxd2047@gmail.com">GMAIL</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
