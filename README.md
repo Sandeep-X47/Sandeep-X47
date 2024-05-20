@@ -10,12 +10,13 @@
 - 📚 Learning in Public 
 </p>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb" target="_blank">LINKEDIN</a> <br/>
-  <a href="https://x.com/Sandeep_X47" target="_blank">TWITTER</a>
-  
-</p>
+<h2 align="left">Connect Me:</h2>
+
+<ul  align="left">
+  <li><a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb" target="_blank">LINKEDIN</a> </li>
+  <li><a href="https://x.com/Sandeep_X47" target="_blank">TWITTER</a></li>
+</ul> 
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
