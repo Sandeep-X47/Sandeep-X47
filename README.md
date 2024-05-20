@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb" target="_blank">LINKEDIN</a>
+  <a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb" target="_blank">LINKEDIN</a> <br/>
   <a href="https://x.com/Sandeep_X47" target="_blank">TWITTER</a>
-  <a href="snxd2047@gmail.com">GMAIL</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
