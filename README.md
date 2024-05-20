@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif">
 
-<h3 align="center">Web Developer</h3>
-
+<h2 align="left">About Me</h2>
 <p align="left">
+- 🚀 Computer Science Engineering student <br/>
 - 🔭 I’m currently working on Web development<br/>
-- 🌱 I’m currently learning MERN Stack<br/>
-
+- 🌱 I’m currently learning MERN Stack <br/>
+- 👐 Open source <br/>
+- 📚 Learning in Public 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb" target="_blank">LINKEDIN</a> <br/>
   <a href="https://x.com/Sandeep_X47" target="_blank">TWITTER</a>
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
