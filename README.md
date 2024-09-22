@@ -4,7 +4,7 @@
 <h2 align="left">About Me</h2>
 <p align="left">
 - 🚀 Computer Science Engineering student <br/>
-- 🌱 I’m currently learning Data Structures and Algorithms (DSA) <br/>
+- 🌱 I’m currently learning Data Structures and Algorithms <br/>
 - 👐 Open source <br/>
 - 📚 Learning in Public 
 </p>
