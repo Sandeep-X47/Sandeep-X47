@@ -1,86 +1,167 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<p align="center">
-  <img src="https://media.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif" alt="Goku" width="400"/>
-</p>
+# 👨‍💻 SANDEEP KUMAR
+
+🚀 Aspiring Software Engineer | Full Stack Developer | AI & Web3 Enthusiast
+
+📍 Chennai, Tamil Nadu, India  
+📧 snxd2047@gmail.com  
+🌐 Portfolio: sandeep-portfolio-xi-ashen.vercel.app  
+💼 LinkedIn: linkedin.com/in/sandeep-kumar-b7a8012bb
 
 ---
 
-<h2>💡 About Me</h2>
+# ⚡ About Me
 
-- 🚀 Computer Science Engineering student.
-- 🚀 **Full-Stack Developer** specializing in React, Node.js, and modern web technologies.
-- ✅ **Solved 450+ Data Structure & Algorithm problems** on various platforms.
-- ⛓️ Passionate about **Web3 Development** and building decentralized applications.
-- 🏆 Actively participate in hackathons, seminars, and open-source contributions.
+Computer Science Engineering student focused on building scalable software systems, full-stack applications, and AI-powered platforms.
 
----
+Strong interest in:
+- Software Engineering
+- Full Stack Development
+- Artificial Intelligence
+- System Design
+- Backend Architecture
+- Real-Time Collaboration Systems
 
-<h2>📫 Connect With Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/Sandeep_X47" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="Twitter/X" width="30"/>
-  </a>
-</p>
+Currently focused on:
+- Advanced Data Structures & Algorithms
+- MERN Stack Development
+- Scalable Backend Engineering
+- AI-integrated Applications
+- Web3 Technologies
 
 ---
 
-<h2>🛠️ My Tech Stack</h2>
+# 🛠️ Tech Stack
 
-<h3>Frontend Development</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap 5"/>
-</p>
-
-<h3>Backend Development</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-</p>
-
-<h3>Databases</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-</p>
-
-<h3>Web3 & Blockchain</h3>
-<p align="left">
-  <strong>Web3 Development</strong> &nbsp;
-  <strong>Blockchain</strong> &nbsp;
-  <strong>NFTs</strong> &nbsp;
-</p>
-
-<h3>Tools & Version Control</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM"/>
-</p>
-
-<h3>Foundational Languages (for DSA & Problem-Solving)</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-</p>
+## 💻 Languages
+- Python
+- C++
+- C
+- JavaScript
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+## 🌐 Frontend
+- React.js
+- HTML5
+- CSS3
+- Responsive Web Design
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeep-x47&show_icons=true&theme=tokyonight" alt="Sandeep Kumar's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-x47&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---
+
+## ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+
+---
+
+## 🗄️ Databases
+- MongoDB
+- SQL
+
+---
+
+## 📚 Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- System Design
+
+---
+
+## 🔧 Development Practices
+- Git & Version Control
+- Agile Collaboration
+- Requirement Analysis
+- Cost Estimation Planning
+- Problem Solving
+- Team Collaboration
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Hair & Facial Analysis Platform
+
+AI-powered grooming recommendation system using facial analysis and computer vision techniques.
+
+### Key Features
+- Multi-angle facial analysis system
+- Hairstyle recommendation engine
+- Beard style prediction system
+- AI barber instruction generator
+- Personalized grooming insights
+
+### Impact
+- Improved recommendation accuracy using multi-angle image analysis
+- Reduced communication gap between customers and barbers
+- Automated grooming guidance generation workflow
+
+🔗 GitHub: github.com/Praveen-Mariappasamy/Hairstyle-Predictor
+
+---
+
+## 👥 DevHub — Collaborative Development Workspace
+
+Full-stack collaborative software engineering platform built using the MERN stack.
+
+### Key Features
+- Real-time collaboration workspace
+- Integrated code editor
+- Team messaging & communication
+- Role-based authentication system
+- Public/private project management
+- Task management workflows
+
+### Engineering Highlights
+- Built scalable RESTful APIs
+- Optimized database queries reducing response time by 35%
+- Improved collaboration efficiency by 60%
+- Implemented real-time development coordination workflows
+
+🔗 GitHub: github.com/dhirajsrinivas/workos-backend
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Smart India Hackathon 2025 — College Final Round Qualifier
+- 🧠 Solved 450+ DSA problems across coding platforms
+- 🔥 Earned LeetCode 50-Day Coding Badge
+- 📈 Strong focus on disciplined problem-solving and software engineering fundamentals
+
+---
+
+# 🎓 Education
+
+## Bachelor of Technology (B.Tech) — Computer Science Engineering
+📍 SRM Institute of Science and Technology, Chennai  
+📅 Expected Graduation: May 2028  
+📊 CGPA: 8.95 / 10.0
+
+---
+
+# 📌 Current Focus
+
+- Advanced Backend Development
+- Scalable System Design
+- AI-powered Applications
+- Full Stack Engineering
+- High-performance APIs
+- Competitive Programming
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 Portfolio: sandeep-portfolio-xi-ashen.vercel.app
+- 💼 LinkedIn: linkedin.com/in/sandeep-kumar-b7a8012bb
+- 📧 Email: snxd2047@gmail.com
+
+---
+
+# ⚡ Philosophy
+
+> Build systems that solve real problems.  
+> Optimize for learning, execution, and long-term engineering mastery.
