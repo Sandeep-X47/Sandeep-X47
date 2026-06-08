@@ -2,10 +2,10 @@
 
 🚀 Aspiring Software Engineer | Full Stack Developer | AI & Web3 Enthusiast
 
-📍 Chennai, Tamil Nadu, India  
-📧 snxd2047@gmail.com  
-🌐 Portfolio: https://sk-xi-ashen.vercel.app/
-💼 LinkedIn: linkedin.com/in/sandeep-kumar-b7a8012bb
+- 📍 Chennai, Tamil Nadu, India  
+- 📧 snxd2047@gmail.com  
+- 🌐 Portfolio: https://sk-xi-ashen.vercel.app/
+- 💼 LinkedIn: linkedin.com/in/sandeep-kumar-b7a8012bb
 
 ---
 
