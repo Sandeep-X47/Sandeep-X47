@@ -4,7 +4,7 @@
 
 📍 Chennai, Tamil Nadu, India  
 📧 snxd2047@gmail.com  
-🌐 Portfolio: sandeep-portfolio-xi-ashen.vercel.app  
+🌐 Portfolio: https://sk-xi-ashen.vercel.app/
 💼 LinkedIn: linkedin.com/in/sandeep-kumar-b7a8012bb
 
 ---
@@ -155,7 +155,7 @@ Full-stack collaborative software engineering platform built using the MERN stac
 
 # 📫 Connect With Me
 
-- 🌐 Portfolio: sandeep-portfolio-xi-ashen.vercel.app
+- 🌐 Portfolio: https://sk-xi-ashen.vercel.app/
 - 💼 LinkedIn: linkedin.com/in/sandeep-kumar-b7a8012bb
 - 📧 Email: snxd2047@gmail.com
 
