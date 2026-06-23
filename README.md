@@ -127,7 +127,7 @@ Full-stack collaborative software engineering platform built using the MERN stac
 # 🏆 Achievements
 
 - 🥇 Smart India Hackathon 2025 — College Final Round Qualifier
-- 🧠 Solved 450+ DSA problems across coding platforms
+- 🧠 Solved 600+ DSA problems across coding platforms
 - 🔥 Earned LeetCode 50-Day Coding Badge
 - 📈 Strong focus on disciplined problem-solving and software engineering fundamentals
 
